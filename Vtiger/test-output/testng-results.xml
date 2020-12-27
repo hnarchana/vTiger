@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-24T11:56:13 IST" name="Default suite" finished-at="2020-12-24T11:56:13 IST" duration-ms="98">
+    <groups>
+    </groups>
+    <test started-at="2020-12-24T11:56:13 IST" name="Default test" finished-at="2020-12-24T11:56:13 IST" duration-ms="98">
+      <class name="com.comcast.ContactTest.CreateContactWIthMandatoryTest">
+        <test-method signature="createContactTest()[pri:0, instance:com.comcast.ContactTest.CreateContactWIthMandatoryTest@4f67eb2a]" started-at="2020-12-24T11:56:13 IST" name="createContactTest" finished-at="2020-12-24T11:56:13 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method signature="createContactwithPhoneTest()[pri:0, instance:com.comcast.ContactTest.CreateContactWIthMandatoryTest@4f67eb2a]" started-at="2020-12-24T11:56:13 IST" name="createContactwithPhoneTest" finished-at="2020-12-24T11:56:13 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactwithPhoneTest -->
+      </class> <!-- com.comcast.ContactTest.CreateContactWIthMandatoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
